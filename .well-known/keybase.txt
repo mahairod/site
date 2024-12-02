@@ -1,0 +1,62 @@
+==================================================================
+https://keybase.io/astafiev
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://astafiev.me
+  * I am astafiev (https://keybase.io/astafiev) on keybase.
+  * I have a public key with fingerprint 3138 77D7 3FC3 A516 A6EC  FABA 73A2 3731 C531 42F5
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0116f3677b9eb3dd7adf133565cc15884dcd63170de867290eb617a542ce198e78e00a",
+      "fingerprint": "313877d73fc3a516a6ecfaba73a23731c53142f5",
+      "host": "keybase.io",
+      "key_id": "73a23731c53142f5",
+      "kid": "0116f3677b9eb3dd7adf133565cc15884dcd63170de867290eb617a542ce198e78e00a",
+      "uid": "9a2d142578191132b5e8bd36ad154c19",
+      "username": "astafiev"
+    },
+    "service": {
+      "hostname": "astafiev.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1733100146,
+  "expire_in": 157680000,
+  "prev": "61b2a67be5b17bb5a3e6268d7903faa51e45679f0272891f70273a45452b72db",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUr9rFEEU3vwQYiDE6jqRDAoiR9g3s/Nj10IMaVIESys5ZnbebpZcds/dvTtD
+TCmIVcoIKUSIqIWdjQERghDwD7ATLRSFA0EIiEVw9jCNWDrNzHvzfd/73pvZmZvy
+ZlrVYwlvYel44t0346Wrk2+2iCnsJom2yDqON+xarOrOemZJRHwAkTAhpQnRMGul
+tgkwxgWPY+BKBTa2goH0LSohaeijESA1D2iMECqUCn1fkzZJsjzFsldmee1kGTAl
+pZUsiZnmILTAONFGS6YpkwxiziCgCXfEtaJqGM6c0RUuZoXLuaAztvcP/H/23R/L
+hZpaV4BLBSEAo4ajMpYJbYEHMYQNsMIy1xvo0LqqdZLhgGy3icsOshibwTad/IVY
+dFGb9MqiLuKi6y7W6rpXRQ2x3uw1yCGazh+Njsly68boGAMsq6zISQQOGddZIwqS
+MfB9CESb4J1eVmInaxBcCuW71dRxniIiwFAtpLmJ3IA0hmuGggplZeizRLv3wIAL
+GSY+lVSFkEh3YDrgAadGUmtI09btvCARdz516jSrLM113S+RbM/e7097rRnvfGth
+GtTw/bXD/daT0a9Xpz/vzGTz7bzZs+dOMz/mvZPLwxvfg+XDF1MPl1YOXp+0NvKf
+X3YvPdp5cFDudT+8XJ7w7o32Pi1cXD1K715//vFoZW7w9crTZ8e3Rheu7n9O53dn
+fgM=
+=SKl5
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/astafiev
+
+==================================================================
